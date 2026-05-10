@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shubham Shrivastava</h1>
+<h1 align="center">Hi 👋, I'm Shubham Shrivastav</h1>
 
 <h3 align="center">
 🚀 Full Stack Developer (MERN) | ☁️ Cloud Enthusiast | 🤖 AI Explorer
